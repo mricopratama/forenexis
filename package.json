@@ -1,0 +1,30 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@types/react": "^19.0.10",
+        "@types/react-dom": "^19.0.4",
+        "@vitejs/plugin-react": "^4.3.4",
+        "autoprefixer": "^10.4.20",
+        "axios": "^1.7.4",
+        "concurrently": "^9.0.1",
+        "flowbite": "^3.1.2",
+        "flowbite-typography": "^1.0.5",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.49",
+        "tailwindcss": "^3.4.16",
+        "typescript": "^5.8.2",
+        "vite": "^6.0"
+    },
+    "dependencies": {
+        "aos": "^2.3.4",
+        "framer-motion": "^12.4.10",
+        "lucide-react": "^0.477.0",
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0"
+    }
+}
