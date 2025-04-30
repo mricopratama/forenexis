@@ -117,10 +117,17 @@
 
                         <div class="mt-8">
                             <h4 class="font-bold text-gray-700 mb-4">Find Us On Map</h4>
-                            <div class="bg-gray-200 h-64 rounded-lg flex items-center justify-center">
-                                <p class="text-gray-500">Map would be displayed here</p>
+                            <div class="h-64 rounded-lg overflow-hidden">
+                              <iframe
+                                class="w-full h-full"
+                                frameborder="0"
+                                scrolling="no"
+                                marginheight="0"
+                                marginwidth="0"
+                                src="https://maps.google.com/maps?q=-7.8329077891269785,110.38312554844693&z=15&output=embed">
+                              </iframe>
                             </div>
-                        </div>
+                          </div>
                     </div>
                 </div>
             </div>
